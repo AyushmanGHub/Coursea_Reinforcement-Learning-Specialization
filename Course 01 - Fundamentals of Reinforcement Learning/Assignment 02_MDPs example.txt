@@ -1,0 +1,44 @@
+Self Driving car
+
+1. States:
+- Sensor readings: LIDAR, cameras, GPS, accelerometer, etc
+- Car’s speed
+- Car’s position: GPS coordinates and orientation
+- Traffic signals: traffic lights sign
+
+2. Actions: Accelerate, Decelerate, Turn Left, Turn Right, Stop
+
+3. Rewards:
+- +100 for safely reaching the destination
+- -500 for a collision or traffic violation
+- +10 - for every traffic light passed safely
+- -1: for each step taken, encouraging the car to complete the journey efficiently
+
+
+Video Game  Character
+ 
+1. States:
+- Character position: x and y coordinates 
+- Health: currenthealth points of the character
+- Inventory: Items like weapons, coins, etc
+- Enemies: Positions and states (alive or defeated) of enemies 
+
+2. Actions: Move Left, Move Right, Jump, Run, Attack, etc
+
+3. Rewards:
+- +100 for defeating an enemy
+- +50 for collecting coins or acessories
+- -10 for taking damage or losing health points
+- +500 for completing a level without dying
+
+Thermo Flask (Smart Bottle)
+
+1. States: Temperature, Water level, Battery Level
+
+2. Actions: Heat, Cool, Refill, Charge, Drink Reminder
+
+Rewards:
+- +10 if the temperature is correct
+- -5 if battery level drops below certain level
+- -2 if temperature exceeds the preferred range (too hot or too cold)
+- +5 if the flask successfully reminds the user to drink
