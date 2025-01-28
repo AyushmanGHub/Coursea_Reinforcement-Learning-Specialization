@@ -32,3 +32,8 @@ For more details, visit the specialization page: [Reinforcement Learning Special
 
 ---
 ## Hope it Helps you in understanding Reinforcement Learning
+
+### These conatins Codes, Class Notes and Data sets from `DeepLearning.AI TensorFlow Developer Professional Certificate` on coursera by University of Alberta
+.
+### All these are also available on coursera website, All Above resourses are by DeepLearning.AI. 
+
