@@ -31,4 +31,4 @@ For more details, visit the specialization page: [Reinforcement Learning Special
 
 
 ---
-## Hope it Helps you in understanding and Learning TensorFlow
+## Hope it Helps you in understanding Reinforcement Learning
