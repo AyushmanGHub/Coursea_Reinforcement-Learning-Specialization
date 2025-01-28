@@ -9,5 +9,11 @@
 
 
 ## Course 02 - Sample-Based Learning Methods
+- **Welcome to the Course**  
+- **Monte Carlo Methods for Prediction & Control**  
+- **Temporal Difference Learning Methods for Prediction**  
+- **Temporal Difference Learning Methods for Control**  
+- **Planning, Learning & Acting**
+  
 ## Course 03 - Prediction and Control with Function Approximation Lectures
 ## Course 04 - A Complete Reinforcement Learning System (Capstone)
