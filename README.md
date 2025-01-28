@@ -24,3 +24,11 @@
 
   
 ## Course 04 - A Complete Reinforcement Learning System (Capstone)
+# A Complete Reinforcement Learning System (Capstone): Course Overview  
+
+- **Welcome to the Course**  
+- **Formalize Word Problem as MDP**  
+- **Choosing the Right Algorithm**  
+- **Identify Key Performance Parameters**  
+- **Implement Your Agent**  
+- **Submit Your Parameter Study**  
